@@ -22,7 +22,7 @@ JETBOT MINI is a ROS artificial intelligence robot based on the NVIDIA JETSON NA
 
 [By on Amazom](https://www.amazon.com/dp/B09P566831)
 
-[By on Amazom](https://www.aliexpress.com/item/1005003718491646.html)
+[By on Aliexpress](https://www.aliexpress.com/item/1005003718491646.html)
 
 
 # Please Contact Us
