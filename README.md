@@ -1,5 +1,4 @@
 # jetbot-mini
-# JetBot-AI-Robot-Car
 ![](https://github.com/YahboomTechnology/jetbot-mini/blob/main/Jetbot-mini.jpg)
 # Introduction
 JETBOT MINI is a ROS artificial intelligence robot based on the NVIDIA JETSON NANO 2GB board. Built-in ROS(robot operating system), OPENCV as the image processing library, Python3 as the main programming language. It can be developed through JupyterLab online programming tools. Users can manually adjust the pitch angle of camera, and can realize various functions such as Autopilot, color recognition, and face recognition. It also support mobile APP/handle/PC cross-platform interconnection control. In addition, we specially provide open source courses and corresponding source codes for this robot to help users easily get started with ROS and AI programming.
