@@ -5,17 +5,17 @@ JETBOT MINI is a ROS artificial intelligence robot based on the NVIDIA JETSON NA
 
 # Features
 
-* 1) ROS robot operating system, Python3 programming language.
+* ROS robot operating system, Python3 programming language.
 
-* 2) Cost-effective hardware configuration: Can be directly inserted into Jetson NANO dedicated expansion board, TF card with JetbotMINI dedicated operating system, USB3.0 adapter, 1300Mbps drive-free network card, and large-capacity 18650 battery pack.
+* Cost-effective hardware configuration: Can be directly inserted into Jetson NANO dedicated expansion board, TF card with JetbotMINI dedicated operating system, USB3.0 adapter, 1300Mbps drive-free network card, and large-capacity 18650 battery pack.
 
-* 3) Multi interesting AI functions: Autopilot, color recognition, face detection, AR tag recognition, visual image beautification, etc.
+* Multi interesting AI functions: Autopilot, color recognition, face detection, AR tag recognition, visual image beautification, etc.
 
-* 4) Cross-platform interconnection: Mobile APP, handle (optional).
+* Cross-platform interconnection: Mobile APP, handle (optional).
 
-* 5) The structure is simple, easy to assemble.
+* The structure is simple, easy to assemble.
 
-* 6) Everyone can enjoy lots of tutorial materials and professional technical support for free.
+* Everyone can enjoy lots of tutorial materials and professional technical support for free.
 
 # Required Best Buy Links
 [By on Yahboom website](https://category.yahboom.net/products/jetbot-mini)
