@@ -17,9 +17,6 @@ JETBOT MINI is a ROS artificial intelligence robot based on the NVIDIA JETSON NA
 
 * Everyone can enjoy lots of tutorial materials and professional technical support for free.
 
-# Required Best Buy Links
-[By on Yahboom website](https://category.yahboom.net/products/jetbot-mini)
-
 
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
